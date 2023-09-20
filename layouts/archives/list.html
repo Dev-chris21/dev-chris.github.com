@@ -1,0 +1,8 @@
+{{ define "main" }}
+ <h1>Archives</h1>
+ <ul>
+    {{ range .site.Taxonomies.categories}}
+      <li><a href="{{ .Page.Permalink}}">{{ .Page.Title}}</a> ({{ .Count}})</li>
+      {{ end }}
+ </ul>
+ {{ end }}

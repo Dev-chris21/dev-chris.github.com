@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Dev-chris</title>
+    <link>https://Dev-chris.github.io/posts/</link>
+    <description>Recent content in Posts on Dev-chris</description>
+    <image>
+      <title>Dev-chris</title>
+      <url>https://Dev-chris.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://Dev-chris.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Sep 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://Dev-chris.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Down The Rabbit Hole - My prefered learning style</title>
+      <link>https://Dev-chris.github.io/posts/first-post/</link>
+      <pubDate>Sun, 10 Sep 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://Dev-chris.github.io/posts/first-post/</guid>
+      <description>It is natural for a person to want to acquire a new skill, grasp a theory, or understand a formula for various reasons, such as obtaining a job, earning a degree, or simply out of curiosity. People employ various methods to assimilate new information.
+The most common approach is to follow mainstream advice, read what others are saying, and essentially do what everyone else is doing. However, there is a significant issue with this approach.</description>
+    </item>
+    
+    <item>
+      <title>Substances &amp; Productivity</title>
+      <link>https://Dev-chris.github.io/posts/second-post/</link>
+      <pubDate>Mon, 11 Sep 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://Dev-chris.github.io/posts/second-post/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>The Real Impact Of AI On Our Society</title>
+      <link>https://Dev-chris.github.io/posts/third-post/</link>
+      <pubDate>Tue, 12 Sep 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://Dev-chris.github.io/posts/third-post/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>HTML, CSS &amp; JavaScript - A Comprehensive Introduction for Complete Beginners</title>
+      <link>https://Dev-chris.github.io/posts/fourth-post/</link>
+      <pubDate>Wed, 13 Sep 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://Dev-chris.github.io/posts/fourth-post/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>
