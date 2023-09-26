@@ -41,6 +41,4 @@ Now, let's delve into the connection between substance use and productivity or d
 
 Therefore, despite the advertisements and the allure of substances that exist, if you aspire to excel or become a master in any field, you must avoid adopting the habit of instant gratification. The initial step toward achieving this is by either avoiding or controlling your consumption of substances.
 
-![Image](/images/sample.jpg)
-
 ...
